@@ -10,7 +10,7 @@ void printSubstrings(string input) {
     //     for(int len = 1; len<=n-i;len++){
     //         cout<<input.substr(i,len)<<endl;;
     //     }
-    // }
+    // } 
 
     for(int i=0;i<n;i++){
         for(int j= i;j<n;j++){
